@@ -6,9 +6,9 @@ color:
   saturation: 0.9729314465075731
   rhythmicContrast: 0.9943755099084228
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#483345'
+    - '#FFFFFF'
+    - '#4864E6'
+    - '#A1969F'
+    - '#C9C3C8'
 name: tranquility base
