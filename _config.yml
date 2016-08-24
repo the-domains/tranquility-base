@@ -1,0 +1,14 @@
+layout_spectrum: 0.3194399415515363
+typography_spectrum: 0.5195029540918767
+color:
+  brandStrength: 0.6860828131902963
+  lightness: 0.1821340238675475
+  saturation: 0.9729314465075731
+  rhythmicContrast: 0.9943755099084228
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: tranquility base
